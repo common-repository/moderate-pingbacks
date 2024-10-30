@@ -1,0 +1,1 @@
+=== Moderate Pingbacks ===Contributors: nickmomrikTags: moderate, pingbacksStable tag: trunkAutomatically puts all pingbacks into the comment moderation queue.== Installation ==1. Upload `moderate-pingbacks.php` to the `/wp-content/plugins/` directory1. Activate the plugin through the 'Plugins' menu in WordPress
